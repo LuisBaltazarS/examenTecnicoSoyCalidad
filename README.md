@@ -1,2 +1,1 @@
-# examenTecnicoSoyCalidad
-# examenTecnicoSoyCalidad
+# PRUEBA TECNICA
